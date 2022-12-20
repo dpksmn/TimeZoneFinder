@@ -1,5 +1,5 @@
 # TimeZoneFinder
 Chrome Extention
 
-## Language Used
+## Tools Used
 + Html, JavaScript, Json
